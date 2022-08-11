@@ -22,9 +22,9 @@
 * this is James Tan's repository without any work   
 ["leaders repository"](https://github.com/jamestan8292?tab=repositories)  
 * this is I am asking authority to upload   
-!["asking authority"]("./01.jpg")
+!["asking authority"](01.jpg)
 * this is the proof that he refused me doing the presentation   
-!["unreached presentation"]("./02.jpg")
+!["unreached presentation"](02.jpg)
 
 ----
 # Project part
@@ -48,7 +48,7 @@ this project contains:
   ```python
   import plotly.graph_objects as go   
   ```
-  !["candlesticks"]("./candle.jpg")
+  !["candlesticks"](candle.jpg)
 
 ## Conclusion
   > * We used Alpaca SDK to gather stock datas, in this case: 
